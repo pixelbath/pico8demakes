@@ -8,8 +8,14 @@
 
 This is a list of available video game demakes in the fantasy console PICO-8.
 
+### Alex Kidd in Miracle World - Master System
+Alex Kidd in Pico World by Domarius https://www.lexaloffle.com/bbs/?tid=30218
+
 ### Alone in the Dark - PC
 Alone in Pico by NuSan https://www.lexaloffle.com/bbs/?tid=3792
+
+### Bomberman - NES
+Bomb'n Picoman by JuDelCo https://www.lexaloffle.com/bbs/?tid=3038
 
 ### Boulder Dash - c64, NES
 Boulder Run by pahammond https://www.lexaloffle.com/bbs/?tid=34602
@@ -17,8 +23,14 @@ Boulder Run by pahammond https://www.lexaloffle.com/bbs/?tid=34602
 ### Comanche - PC
 Comanche 1/2 by electricgryphon https://www.lexaloffle.com/bbs/?tid=31244
 
+### Factorio - PC
+DeFacto by NuSan https://www.lexaloffle.com/bbs/?tid=30631
+
 ### Fez - PC
 FUZ by Jusiv https://www.lexaloffle.com/bbs/?tid=34188
+
+### Hollow Knight - PC
+Low Knight by Team Cherry https://krajzeg.itch.io/low-knight
 
 ### League of Legends - PC
 League of PICO by wombart https://wombart.itch.io/league-of-pico
@@ -32,14 +44,20 @@ Endless Sky by electricgryphon https://www.lexaloffle.com/bbs/?tid=27629
 ### Pac-Man (arcade version) - Arcade
 Pico-Man by UrbanMonk https://www.lexaloffle.com/bbs/?tid=2098
 
+### Pipe Mania - Amiga
+Tubular Craze by briac https://www.lexaloffle.com/bbs/?tid=3949
+
 ### Space Invaders - Arcade, 2600
 Space Invaders 2600 by pahammond https://www.lexaloffle.com/bbs/?tid=36364
 
-### Star Fox 64 - N64
+### Star Fox - SNES
 Pico Fox by electricgryphon https://www.lexaloffle.com/bbs/?tid=28067
 
 ### Super Mario Bros - NES
 Super Mario Bros by Sascha217 https://www.lexaloffle.com/bbs/?tid=28942
+
+### Super Puzzle Fighter
+Super Pico Fighter by bati https://bati.itch.io/super-pico-fighter
 
 ### Qix - C64, NES, Game Boy
 Stix by pahammond https://www.lexaloffle.com/bbs/?pid=66179
