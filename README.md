@@ -30,7 +30,7 @@ DeFacto by NuSan https://www.lexaloffle.com/bbs/?tid=30631
 FUZ by Jusiv https://www.lexaloffle.com/bbs/?tid=34188
 
 ### Hollow Knight - PC
-Low Knight by Team Cherry https://krajzeg.itch.io/low-knight
+Low Knight by Jakub Wasilewski https://krajzeg.itch.io/low-knight
 
 ### League of Legends - PC
 League of PICO by wombart https://wombart.itch.io/league-of-pico
@@ -41,6 +41,8 @@ Pico Kart by electricgryphon https://www.lexaloffle.com/bbs/?tid=2886
 ### No Man's Sky - PC
 Endless Sky by electricgryphon https://www.lexaloffle.com/bbs/?tid=27629
 
+Low Mem Sky by Liquidream https://www.lexaloffle.com/bbs/?tid=32724
+
 ### Pac-Man (arcade version) - Arcade
 Pico-Man by UrbanMonk https://www.lexaloffle.com/bbs/?tid=2098
 
@@ -49,6 +51,9 @@ Tubular Craze by briac https://www.lexaloffle.com/bbs/?tid=3949
 
 ### Space Invaders - Arcade, 2600
 Space Invaders 2600 by pahammond https://www.lexaloffle.com/bbs/?tid=36364
+
+### Spelunky - PC
+Delunky by johanp https://www.lexaloffle.com/bbs/?pid=56554
 
 ### Star Fox - SNES
 Pico Fox by electricgryphon https://www.lexaloffle.com/bbs/?tid=28067
