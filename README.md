@@ -66,4 +66,4 @@ Stix by pahammond https://www.lexaloffle.com/bbs/?pid=66179
 Virtua Racing by freds72 https://freds72.itch.io/virtua-racing
 
 ### X-Wing vs Tie Fighter - PC
-X-Wing vs. Tie Figther: Attack on the Deathstar by freds72 https://www.lexaloffle.com/bbs/?tid=31443
+X-Wing vs. Tie Fighter: Attack on the Deathstar by freds72 https://www.lexaloffle.com/bbs/?tid=31443
