@@ -43,6 +43,9 @@ Endless Sky by electricgryphon https://www.lexaloffle.com/bbs/?tid=27629
 
 Low Mem Sky by Liquidream https://www.lexaloffle.com/bbs/?tid=32724
 
+### Nuclear Throne - PC, PS4, Vita, Switch
+Nuklear Klone by freds72 https://www.lexaloffle.com/bbs/?tid=30652
+
 ### Pac-Man (arcade version) - Arcade
 Pico-Man by UrbanMonk https://www.lexaloffle.com/bbs/?tid=2098
 
