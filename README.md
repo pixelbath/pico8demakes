@@ -11,6 +11,9 @@ This is a list of available video game demakes in the fantasy console PICO-8.
 ### A Hat in Time - PC
 A Hat on Time by eggnog https://www.lexaloffle.com/bbs/?tid=31736
 
+### Advance Wars - Game Boy Advance
+Picowars by Lambdanaut https://www.lexaloffle.com/bbs/?tid=38084
+
 ### Adventure Creator - Atari 400/800
 Adventure Creator by gradualgames https://www.lexaloffle.com/bbs/?pid=40248
 
@@ -23,14 +26,20 @@ PicoBreed by gabrialcrowe https://www.lexaloffle.com/bbs/?tid=29347
 ### Alone in the Dark - PC
 Alone in Pico by NuSan https://www.lexaloffle.com/bbs/?tid=3792
 
+### Attack on the Deathstar - Sharp X68000
+X-Wing vs. Tie Fighter: Attack on the Deathstar by freds72 https://www.lexaloffle.com/bbs/?tid=31443
+
 ### Booty - Amstrad, C64, C+4, ZX
 Bootyful Demake by nate2squared https://www.lexaloffle.com/bbs/?pid=39115
 
 ### Bomberman - NES
 Bomb'n Picoman by JuDelCo https://www.lexaloffle.com/bbs/?tid=3038
 
-### Boulder Dash - c64, NES
+### Boulder Dash - C64, NES
 Boulder Run by pahammond https://www.lexaloffle.com/bbs/?tid=34602
+
+### Bubble Bobble - Arcade, NES, Various
+Bubble Bobble by pahammond https://www.lexaloffle.com/bbs/?tid=37748
 
 ### Cave Story (洞窟物語, Dōkutsu Monogatari) - PC
 A Doukutsu Demake by howlermiller https://www.lexaloffle.com/bbs/?tid=3054
@@ -50,6 +59,12 @@ FUZ by Jusiv https://www.lexaloffle.com/bbs/?tid=34188
 ### Hollow Knight - PC
 Low Knight by Jakub Wasilewski https://krajzeg.itch.io/low-knight
 
+### Katamari Damacy - PS2, PC
+Katamari Christmassy by p01 https://www.lexaloffle.com/bbs/?tid=36292
+
+### Kung Fu - Arcade, NES, Various
+Kung Fu Demake by pootie https://www.lexaloffle.com/bbs/?tid=38871
+
 ### League of Legends - PC
 League of PICO by wombart https://wombart.itch.io/league-of-pico
 
@@ -64,11 +79,19 @@ Low Mem Sky by Liquidream https://www.lexaloffle.com/bbs/?tid=32724
 ### Nuclear Throne - PC, PS4, Vita, Switch
 Nuklear Klone by freds72 https://www.lexaloffle.com/bbs/?tid=30652
 
+Scrap Kings by 9joao6 https://www.lexaloffle.com/bbs/?tid=39503
+
 ### Pac-Man (arcade version) - Arcade
 Pico-Man by UrbanMonk https://www.lexaloffle.com/bbs/?tid=2098
 
+### Pikmin - Wii
+Picomin by GunTurtle https://gunturtle.itch.io/picomin
+
 ### Pipe Mania - Amiga
 Tubular Craze by briac https://www.lexaloffle.com/bbs/?tid=3949
+
+### SCUMM-VM - Various
+SCUMM-8 by Liquidream https://www.lexaloffle.com/bbs/?tid=29176
 
 ### Sim City - PC, SNES
 Picopolis by jeb https://www.lexaloffle.com/bbs/?tid=29590
@@ -103,5 +126,3 @@ Stix by pahammond https://www.lexaloffle.com/bbs/?pid=66179
 ### Virtua Racing - Arcade, 32x
 Virtua Racing by freds72 https://freds72.itch.io/virtua-racing
 
-### Attack on the Deathstar - Sharp X68000
-X-Wing vs. Tie Fighter: Attack on the Deathstar by freds72 https://www.lexaloffle.com/bbs/?tid=31443
