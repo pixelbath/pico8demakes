@@ -26,6 +26,9 @@ PicoBreed by gabrialcrowe https://www.lexaloffle.com/bbs/?tid=29347
 ### Alone in the Dark - PC
 Alone in Pico by NuSan https://www.lexaloffle.com/bbs/?tid=3792
 
+### Another World - Various
+Another World: SURVIVAL by Liquidream https://www.lexaloffle.com/bbs/?pid=44028
+
 ### Attack on the Deathstar - Sharp X68000
 X-Wing vs. Tie Fighter: Attack on the Deathstar by freds72 https://www.lexaloffle.com/bbs/?tid=31443
 
