@@ -111,6 +111,9 @@ SLACKER by Liquidream https://www.lexaloffle.com/bbs/?tid=3920
 ### Star Fox - SNES
 Pico Fox by electricgryphon https://www.lexaloffle.com/bbs/?tid=28067
 
+### Stealthscape - PC
+STLTHSCPE by CarsonK https://www.lexaloffle.com/bbs/?tid=38960
+
 ### Super Mario Bros - NES
 Super Mario Bros by Sascha217 https://www.lexaloffle.com/bbs/?tid=28942
 
