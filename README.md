@@ -74,6 +74,9 @@ League of PICO by wombart https://wombart.itch.io/league-of-pico
 ### Mario Kart
 Pico Kart by electricgryphon https://www.lexaloffle.com/bbs/?tid=2886
 
+### Mixolumia - PC
+Picolumia by andrewedstrom https://www.lexaloffle.com/bbs/?tid=39935
+
 ### No Man's Sky - PC
 Endless Sky by electricgryphon https://www.lexaloffle.com/bbs/?tid=27629
 
