@@ -71,6 +71,9 @@ Kung Fu Demake by pootie https://www.lexaloffle.com/bbs/?tid=38871
 ### League of Legends - PC
 League of PICO by wombart https://wombart.itch.io/league-of-pico
 
+### LUFTRAUSERS - PC
+WENDELKRIEG by 9joao6 https://9joao6.itch.io/wendelkrieg
+
 ### Mario Kart
 Pico Kart by electricgryphon https://www.lexaloffle.com/bbs/?tid=2886
 
@@ -122,6 +125,9 @@ Super Mario Bros by Sascha217 https://www.lexaloffle.com/bbs/?tid=28942
 
 ### Super Puzzle Fighter
 Super Pico Fighter by bati https://bati.itch.io/super-pico-fighter
+
+### SUPERHOT - PC
+PICOHOT by pirx_vr (official) https://www.lexaloffle.com/bbs/?tid=37236
 
 ### T-Rex Game - Chrome
 Walker T. Rex by harmonydoes https://www.lexaloffle.com/bbs/?tid=35703
