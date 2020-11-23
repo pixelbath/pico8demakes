@@ -59,6 +59,9 @@ DeFacto by NuSan https://www.lexaloffle.com/bbs/?tid=30631
 ### Fez - PC
 FUZ by Jusiv https://www.lexaloffle.com/bbs/?tid=34188
 
+### Frogger - Arcade, Atari VCS, Various
+Minionsoft Frogger 1.0 by Minion https://www.lexaloffle.com/bbs/?tid=37139
+
 ### Hollow Knight - PC
 Low Knight by Jakub Wasilewski https://krajzeg.itch.io/low-knight
 
@@ -107,6 +110,9 @@ Picopolis by jeb https://www.lexaloffle.com/bbs/?tid=29590
 
 ### Space Invaders - Arcade, 2600
 Space Invaders 2600 by pahammond https://www.lexaloffle.com/bbs/?tid=36364
+
+### Spaceman Splorf: Planet of Doom - C64
+Spaceman Splorf: Planet of Doom by Roysterini https://www.lexaloffle.com/bbs/?tid=31332
 
 ### Spelunky - PC
 Delunky by johanp https://www.lexaloffle.com/bbs/?pid=56554
