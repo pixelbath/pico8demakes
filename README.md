@@ -53,6 +53,9 @@ Comanche 1/2 by electricgryphon https://www.lexaloffle.com/bbs/?tid=31244
 ### Desert Bus - Sega CD
 Desert Bus by PicoLate https://www.lexaloffle.com/bbs/?pid=67083
 
+### Defender - Arcade
+Defender for Pico8 by hijongpark https://www.lexaloffle.com/bbs/?tid=44898
+
 ### Factorio - PC
 DeFacto by NuSan https://www.lexaloffle.com/bbs/?tid=30631
 
@@ -120,6 +123,9 @@ Delunky by johanp https://www.lexaloffle.com/bbs/?pid=56554
 ### Stacker - Arcade
 SLACKER by Liquidream https://www.lexaloffle.com/bbs/?tid=3920
 
+### Stargate - Arcade
+Stargate for Pico8 by hijongpark https://www.lexaloffle.com/bbs/?tid=44863
+
 ### Star Fox - SNES
 Pico Fox by electricgryphon https://www.lexaloffle.com/bbs/?tid=28067
 
@@ -137,6 +143,9 @@ PICOHOT by pirx_vr (official) https://www.lexaloffle.com/bbs/?tid=37236
 
 ### T-Rex Game - Chrome
 Walker T. Rex by harmonydoes https://www.lexaloffle.com/bbs/?tid=35703
+
+### Terraria - PC
+Terra by cubee https://www.lexaloffle.com/bbs/?tid=44606
 
 ### Thunder Blade - Arcade, Master System
 Thunderblade by freds72 https://www.lexaloffle.com/bbs/?pid=44889
