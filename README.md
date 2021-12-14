@@ -56,6 +56,9 @@ Desert Bus by PicoLate https://www.lexaloffle.com/bbs/?pid=67083
 ### Defender - Arcade
 Defender for Pico8 by hijongpark https://www.lexaloffle.com/bbs/?tid=44898
 
+### Every Extend Extra - PSP, Xbox 360
+Every Extend Extra Pico-8 Edition by Noba https://www.lexaloffle.com/bbs/?tid=39470
+
 ### Factorio - PC
 DeFacto by NuSan https://www.lexaloffle.com/bbs/?tid=30631
 
