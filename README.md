@@ -47,6 +47,9 @@ Bubble Bobble by pahammond https://www.lexaloffle.com/bbs/?tid=37748
 ### Cave Story (洞窟物語, Dōkutsu Monogatari) - PC
 A Doukutsu Demake by howlermiller https://www.lexaloffle.com/bbs/?tid=3054
 
+### Columns - Mega Drive
+piCOLUMNS by extar https://www.lexaloffle.com/bbs/?tid=41630
+
 ### Comanche - PC
 Comanche 1/2 by electricgryphon https://www.lexaloffle.com/bbs/?tid=31244
 
@@ -55,6 +58,9 @@ Desert Bus by PicoLate https://www.lexaloffle.com/bbs/?pid=67083
 
 ### Defender - Arcade
 Defender for Pico8 by hijongpark https://www.lexaloffle.com/bbs/?tid=44898
+
+### Dune II - PC
+UnDUNE II by Liquidream https://www.lexaloffle.com/bbs/?pid=109394
 
 ### Every Extend Extra - PSP, Xbox 360
 Every Extend Extra Pico-8 Edition by Noba https://www.lexaloffle.com/bbs/?tid=39470
@@ -83,8 +89,14 @@ League of PICO by wombart https://wombart.itch.io/league-of-pico
 ### LUFTRAUSERS - PC
 WENDELKRIEG by 9joao6 https://9joao6.itch.io/wendelkrieg
 
-### Mario Kart
+### Mario Kart - SNES
 Pico Kart by electricgryphon https://www.lexaloffle.com/bbs/?tid=2886
+
+### Mega Man - NES
+Nano Man by FunFetched https://www.lexaloffle.com/bbs/?pid=38516
+
+### Minesweeper - PC
+mine1k by pancelor https://www.lexaloffle.com/bbs/?tid=49736
 
 ### Mixolumia - PC
 Picolumia by andrewedstrom https://www.lexaloffle.com/bbs/?tid=39935
