@@ -168,6 +168,9 @@ Thunderblade by freds72 https://www.lexaloffle.com/bbs/?pid=44889
 ### Qix - C64, NES, Game Boy
 Stix by pahammond https://www.lexaloffle.com/bbs/?pid=66179
 
+### Ultima - PC
+Minima by Feneric https://www.lexaloffle.com/bbs/?tid=31831
+
 ### Virtua Racing - Arcade, 32x
 Virtua Racing by freds72 https://freds72.itch.io/virtua-racing
 
