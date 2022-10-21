@@ -6,7 +6,7 @@
   </a>
 </p>
 
-This is a list of available video game demakes in the fantasy console PICO-8.
+This is a list of available video game demakes in the fantasy console PICO-8. If you are the author of one of these and want a different link to your game, feel free to submit a PR, or contact me (@pixelbath on Twitter).
 
 ### A Hat in Time - PC
 A Hat on Time by eggnog https://www.lexaloffle.com/bbs/?tid=31736
@@ -32,6 +32,12 @@ Another World: SURVIVAL by Liquidream https://www.lexaloffle.com/bbs/?pid=44028
 ### Attack on the Deathstar - Sharp X68000
 X-Wing vs. Tie Fighter: Attack on the Deathstar by freds72 https://www.lexaloffle.com/bbs/?tid=31443
 
+### Berzerk - Arcade
+Berzerk by pahammond https://www.lexaloffle.com/bbs/?tid=49503
+
+### Beamrider - Atari 2600
+Beamrider by pahammond https://www.lexaloffle.com/bbs/?tid=49857
+
 ### Booty - Amstrad, C64, C+4, ZX
 Bootyful Demake by nate2squared https://www.lexaloffle.com/bbs/?pid=39115
 
@@ -53,11 +59,17 @@ piCOLUMNS by extar https://www.lexaloffle.com/bbs/?tid=41630
 ### Comanche - PC
 Comanche 1/2 by electricgryphon https://www.lexaloffle.com/bbs/?tid=31244
 
+### Demon Attack - Atari 2600, Intellivision
+Demon Attack by pahammond https://www.lexaloffle.com/bbs/?tid=49139
+
 ### Desert Bus - Sega CD
 Desert Bus by PicoLate https://www.lexaloffle.com/bbs/?pid=67083
 
 ### Defender - Arcade
 Defender for Pico8 by hijongpark https://www.lexaloffle.com/bbs/?tid=44898
+
+### Dropzone - Atari, Various
+Dropzone by pahammond https://www.lexaloffle.com/bbs/?tid=45176
 
 ### Dune II - PC
 UnDUNE II by Liquidream https://www.lexaloffle.com/bbs/?pid=109394
@@ -74,6 +86,9 @@ FUZ by Jusiv https://www.lexaloffle.com/bbs/?tid=34188
 ### Frogger - Arcade, Atari VCS, Various
 Minionsoft Frogger 1.0 by Minion https://www.lexaloffle.com/bbs/?tid=37139
 
+### Gridrunner - VIC-20
+Gridrunner by pahammond https://www.lexaloffle.com/bbs/?tid=44406
+
 ### Hollow Knight - PC
 Low Knight by Jakub Wasilewski https://krajzeg.itch.io/low-knight
 
@@ -86,6 +101,9 @@ Kung Fu Demake by pootie https://www.lexaloffle.com/bbs/?tid=38871
 ### League of Legends - PC
 League of PICO by wombart https://wombart.itch.io/league-of-pico
 
+### Lode Runner - Arcade
+Lode Runner by pahammond 
+
 ### LUFTRAUSERS - PC
 WENDELKRIEG by 9joao6 https://9joao6.itch.io/wendelkrieg
 
@@ -97,6 +115,9 @@ Nano Man by FunFetched https://www.lexaloffle.com/bbs/?pid=38516
 
 ### Minesweeper - PC
 mine1k by pancelor https://www.lexaloffle.com/bbs/?tid=49736
+
+### Missile Command - Arcade
+Missile Command by pahammond https://www.lexaloffle.com/bbs/?tid=42510
 
 ### Mixolumia - PC
 Picolumia by andrewedstrom https://www.lexaloffle.com/bbs/?tid=39935
@@ -114,11 +135,26 @@ Scrap Kings by 9joao6 https://www.lexaloffle.com/bbs/?tid=39503
 ### Pac-Man (arcade version) - Arcade
 Pico-Man by UrbanMonk https://www.lexaloffle.com/bbs/?tid=2098
 
+### Pengo - Arcade
+Pengo by pahammond https://www.lexaloffle.com/bbs/?tid=45605
+
+### Phoenix - Arcade
+Phoenix by pahammond https://www.lexaloffle.com/bbs/?tid=44727
+
 ### Pikmin - Wii
 Picomin by GunTurtle https://gunturtle.itch.io/picomin
 
 ### Pipe Mania - Amiga
 Tubular Craze by briac https://www.lexaloffle.com/bbs/?tid=3949
+
+### Q*Bert - Arcade
+Q*Bert by pahammond https://www.lexaloffle.com/bbs/?tid=44341
+
+### Qix - Various
+Stix by pahammond https://www.lexaloffle.com/bbs/?pid=66179
+
+### Robotron - Arcade
+Robotron by pahammond https://pahammond.itch.io/robotron
 
 ### SCUMM-VM - Various
 SCUMM-8 by Liquidream https://www.lexaloffle.com/bbs/?tid=29176
@@ -165,6 +201,9 @@ Terra by cubee https://www.lexaloffle.com/bbs/?tid=44606
 ### Thunder Blade - Arcade, Master System
 Thunderblade by freds72 https://www.lexaloffle.com/bbs/?pid=44889
 
+### Tutankham - Arcade
+Tutankham by pahammond https://www.lexaloffle.com/bbs/?tid=48598
+
 ### Qix - C64, NES, Game Boy
 Stix by pahammond https://www.lexaloffle.com/bbs/?pid=66179
 
@@ -176,3 +215,6 @@ Virtua Racing by freds72 https://freds72.itch.io/virtua-racing
 
 ### Wizardry - Various
 Wizardish by Eduardolicious https://www.lexaloffle.com/bbs/?pid=22693
+
+### Zoo Keeper - Arcade
+Zoo Keeper by pahammond https://www.lexaloffle.com/bbs/?tid=47917
