@@ -86,6 +86,9 @@ FUZ by Jusiv https://www.lexaloffle.com/bbs/?tid=34188
 ### Frogger - Arcade, Atari VCS, Various
 Minionsoft Frogger 1.0 by Minion https://www.lexaloffle.com/bbs/?tid=37139
 
+### Galaxian - Arcade
+Galaxians by Minion https://www.lexaloffle.com/bbs/?tid=37296
+
 ### Gridrunner - VIC-20
 Gridrunner by pahammond https://www.lexaloffle.com/bbs/?tid=44406
 
@@ -155,6 +158,9 @@ Stix by pahammond https://www.lexaloffle.com/bbs/?pid=66179
 
 ### Robotron - Arcade
 Robotron by pahammond https://pahammond.itch.io/robotron
+
+### Scramble
+Scramble Remake by Minion https://www.lexaloffle.com/bbs/?tid=38117
 
 ### SCUMM-VM - Various
 SCUMM-8 by Liquidream https://www.lexaloffle.com/bbs/?tid=29176
