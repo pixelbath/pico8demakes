@@ -17,6 +17,9 @@ Picowars by Lambdanaut https://www.lexaloffle.com/bbs/?tid=38084
 ### Adventure Creator - Atari 400/800
 Adventure Creator by gradualgames https://www.lexaloffle.com/bbs/?pid=40248
 
+### Age of Empires II - PC
+Age of Ants by eeooty https://www.lexaloffle.com/bbs/?tid=51464
+
 ### Alex Kidd in Miracle World - Master System
 Alex Kidd in Pico World by Domarius https://www.lexaloffle.com/bbs/?tid=30218
 
@@ -59,6 +62,9 @@ piCOLUMNS by extar https://www.lexaloffle.com/bbs/?tid=41630
 ### Comanche - PC
 Comanche 1/2 by electricgryphon https://www.lexaloffle.com/bbs/?tid=31244
 
+### Contra - NES
+Contra by Turbochop https://www.lexaloffle.com/bbs/?tid=43595
+
 ### Demon Attack - Atari 2600, Intellivision
 Demon Attack by pahammond https://www.lexaloffle.com/bbs/?tid=49139
 
@@ -67,6 +73,9 @@ Desert Bus by PicoLate https://www.lexaloffle.com/bbs/?pid=67083
 
 ### Defender - Arcade
 Defender for Pico8 by hijongpark https://www.lexaloffle.com/bbs/?tid=44898
+
+### Donkey Kong - Arcade
+Dinky Kong by Heracleum https://www.lexaloffle.com/bbs/?tid=51877
 
 ### Dropzone - Atari, Various
 Dropzone by pahammond https://www.lexaloffle.com/bbs/?tid=45176
@@ -150,6 +159,9 @@ Picomin by GunTurtle https://gunturtle.itch.io/picomin
 ### Pipe Mania - Amiga
 Tubular Craze by briac https://www.lexaloffle.com/bbs/?tid=3949
 
+### Plants vs Zombies - Mobile
+Pico Zombie Garden by FlyingSmog https://www.lexaloffle.com/bbs/?tid=42252
+
 ### Q*Bert - Arcade
 Q*Bert by pahammond https://www.lexaloffle.com/bbs/?tid=44341
 
@@ -180,11 +192,14 @@ Delunky by johanp https://www.lexaloffle.com/bbs/?pid=56554
 ### Stacker - Arcade
 SLACKER by Liquidream https://www.lexaloffle.com/bbs/?tid=3920
 
-### Stargate - Arcade
-Stargate for Pico8 by hijongpark https://www.lexaloffle.com/bbs/?tid=44863
-
 ### Star Fox - SNES
 Pico Fox by electricgryphon https://www.lexaloffle.com/bbs/?tid=28067
+
+### Stardew Valley - PC
+Pico Valley by taxicomics https://www.lexaloffle.com/bbs/?tid=52480
+
+### Stargate - Arcade
+Stargate for Pico8 by hijongpark https://www.lexaloffle.com/bbs/?tid=44863
 
 ### Stealthscape - PC
 STLTHSCPE by CarsonK https://www.lexaloffle.com/bbs/?tid=38960
@@ -204,6 +219,9 @@ Walker T. Rex by harmonydoes https://www.lexaloffle.com/bbs/?tid=35703
 ### Terraria - PC
 Terra by cubee https://www.lexaloffle.com/bbs/?tid=44606
 
+### THEXDER - PC-88
+TEGZER by hijongpark https://www.lexaloffle.com/bbs/?tid=50918
+
 ### Thunder Blade - Arcade, Master System
 Thunderblade by freds72 https://www.lexaloffle.com/bbs/?pid=44889
 
@@ -221,6 +239,9 @@ Virtua Racing by freds72 https://freds72.itch.io/virtua-racing
 
 ### Wizardry - Various
 Wizardish by Eduardolicious https://www.lexaloffle.com/bbs/?pid=22693
+
+### Zeewolf - Amiga
+Zed Wolf by Catatafish https://www.lexaloffle.com/bbs/?pid=71621
 
 ### Zoo Keeper - Arcade
 Zoo Keeper by pahammond https://www.lexaloffle.com/bbs/?tid=47917
