@@ -168,6 +168,9 @@ Q*Bert by pahammond https://www.lexaloffle.com/bbs/?tid=44341
 ### Qix - Various
 Stix by pahammond https://www.lexaloffle.com/bbs/?pid=66179
 
+### R-Type - Arcade
+R-Type by TheRoboZ https://www.lexaloffle.com/bbs/?pid=98070
+
 ### Robotron - Arcade
 Robotron by pahammond https://pahammond.itch.io/robotron
 
