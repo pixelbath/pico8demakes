@@ -92,6 +92,9 @@ DeFacto by NuSan https://www.lexaloffle.com/bbs/?tid=30631
 ### Fez - PC
 FUZ by Jusiv https://www.lexaloffle.com/bbs/?tid=34188
 
+### Friday Night Funkin' - Flash
+Pico Night Punkin' by CarsonK https://www.lexaloffle.com/bbs/?tid=42715
+
 ### Frogger - Arcade, Atari VCS, Various
 Minionsoft Frogger 1.0 by Minion https://www.lexaloffle.com/bbs/?tid=37139
 
@@ -133,6 +136,9 @@ Missile Command by pahammond https://www.lexaloffle.com/bbs/?tid=42510
 
 ### Mixolumia - PC
 Picolumia by andrewedstrom https://www.lexaloffle.com/bbs/?tid=39935
+
+### Mr. Driller - Arcade
+Pico Driller by johanp https://www.lexaloffle.com/bbs/?tid=38078
 
 ### No Man's Sky - PC
 Endless Sky by electricgryphon https://www.lexaloffle.com/bbs/?tid=27629
@@ -242,6 +248,9 @@ Virtua Racing by freds72 https://freds72.itch.io/virtua-racing
 
 ### Wizardry - Various
 Wizardish by Eduardolicious https://www.lexaloffle.com/bbs/?pid=22693
+
+### Zarch / Virus - Archimedes, Amiga
+PRION by marcospivetta https://www.lexaloffle.com/bbs/?tid=142193
 
 ### Zeewolf - Amiga
 Zed Wolf by Catatafish https://www.lexaloffle.com/bbs/?pid=71621
