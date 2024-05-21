@@ -104,6 +104,9 @@ Galaxians by Minion https://www.lexaloffle.com/bbs/?tid=37296
 ### Gridrunner - VIC-20
 Gridrunner by pahammond https://www.lexaloffle.com/bbs/?tid=44406
 
+### Half Life - PC
+Pico Life by taxicomics https://taxicomics.itch.io/pico-life
+
 ### Hollow Knight - PC
 Low Knight by Jakub Wasilewski https://krajzeg.itch.io/low-knight
 
@@ -156,6 +159,9 @@ Pico-Man by UrbanMonk https://www.lexaloffle.com/bbs/?tid=2098
 ### Pengo - Arcade
 Pengo by pahammond https://www.lexaloffle.com/bbs/?tid=45605
 
+### Phasmophobia - PC
+Picophobia by taxicomics https://taxicomics.itch.io/phasmophobia-demake
+
 ### Phoenix - Arcade
 Phoenix by pahammond https://www.lexaloffle.com/bbs/?tid=44727
 
@@ -205,7 +211,7 @@ SLACKER by Liquidream https://www.lexaloffle.com/bbs/?tid=3920
 Pico Fox by electricgryphon https://www.lexaloffle.com/bbs/?tid=28067
 
 ### Stardew Valley - PC
-Pico Valley by taxicomics https://www.lexaloffle.com/bbs/?tid=52480
+Pico Valley by taxicomics https://taxicomics.itch.io/pico-valley-a-stardew-valley-demake
 
 ### Stargate - Arcade
 Stargate for Pico8 by hijongpark https://www.lexaloffle.com/bbs/?tid=44863
