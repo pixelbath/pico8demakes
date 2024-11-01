@@ -6,7 +6,9 @@
   </a>
 </p>
 
-This is a list of available video game demakes in the fantasy console PICO-8. If you are the author of one of these and want a different link to your game, feel free to submit a PR, or contact me (@pixelbath on Twitter).
+This is a list of available video game demakes in the fantasy console PICO-8. If you are the author of one of these and want a different link to your game, feel free to submit a PR, or contact me (https://twitter.com/@pixelbath on Twitter, or https://vis.social/@pixelbath on Fediverse).
+
+I also have a list of [Picotron demakes](https://github.com/pixelbath/picotrondemakes).
 
 ### A Hat in Time - PC
 A Hat on Time by eggnog https://www.lexaloffle.com/bbs/?tid=31736
