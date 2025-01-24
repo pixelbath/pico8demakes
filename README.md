@@ -265,3 +265,6 @@ Zed Wolf by Catatafish https://www.lexaloffle.com/bbs/?pid=71621
 
 ### Zoo Keeper - Arcade
 Zoo Keeper by pahammond https://www.lexaloffle.com/bbs/?tid=47917
+
+### スイカゲーム (Suika Game ((Watermelon Game)) - Switch, Mobile
+Suika Game Demake by Spoike https://www.lexaloffle.com/bbs/?tid=54642
