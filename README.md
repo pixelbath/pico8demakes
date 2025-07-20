@@ -31,6 +31,9 @@ PicoBreed by gabrialcrowe https://www.lexaloffle.com/bbs/?tid=29347
 ### Alone in the Dark - PC
 Alone in Pico by NuSan https://www.lexaloffle.com/bbs/?tid=3792
 
+### Amidar - Arcade
+Amidar by pahammond https://www.lexaloffle.com/bbs/?pid=138994
+
 ### Another World - Various
 Another World: SURVIVAL by Liquidream https://www.lexaloffle.com/bbs/?pid=44028
 
@@ -67,6 +70,8 @@ Comanche 1/2 by electricgryphon https://www.lexaloffle.com/bbs/?tid=31244
 ### Contra - NES
 Contra by Turbochop https://www.lexaloffle.com/bbs/?tid=43595
 
+Picontra by danmightbetheman https://www.lexaloffle.com/bbs/?tid=139996
+
 ### Demon Attack - Atari 2600, Intellivision
 Demon Attack by pahammond https://www.lexaloffle.com/bbs/?tid=49139
 
@@ -75,6 +80,9 @@ Desert Bus by PicoLate https://www.lexaloffle.com/bbs/?pid=67083
 
 ### Defender - Arcade
 Defender for Pico8 by hijongpark https://www.lexaloffle.com/bbs/?tid=44898
+
+### Devil Daggers - PC
+Demi Daggers by freds72 https://www.lexaloffle.com/bbs/?pid=137782
 
 ### Donkey Kong - Arcade
 Dinky Kong by Heracleum https://www.lexaloffle.com/bbs/?tid=51877
