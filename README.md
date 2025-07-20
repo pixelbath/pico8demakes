@@ -265,6 +265,9 @@ Minima by Feneric https://www.lexaloffle.com/bbs/?tid=31831
 ### Virtua Racing - Arcade, 32x
 Virtua Racing by freds72 https://freds72.itch.io/virtua-racing
 
+### Warcraft III - PC
+Picocraft by dhostin https://www.lexaloffle.com/bbs/?pid=165229
+
 ### Wizardry - Various
 Wizardish by Eduardolicious https://www.lexaloffle.com/bbs/?pid=22693
 
