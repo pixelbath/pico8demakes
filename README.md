@@ -19,11 +19,11 @@ Picowars by Lambdanaut https://www.lexaloffle.com/bbs/?tid=38084
 ### Adventure Creator - Atari 400/800
 Adventure Creator by gradualgames https://www.lexaloffle.com/bbs/?pid=40248
 
-### Age of Empires II - PC
-Age of Ants by eeooty https://www.lexaloffle.com/bbs/?tid=51464
-
 ### Age of Empires - PC
 Peak of Empires by taxicomics https://taxicomics.itch.io/age-of-pico
+
+### Age of Empires II - PC
+Age of Ants by eeooty https://www.lexaloffle.com/bbs/?tid=51464
 
 ### Alex Kidd in Miracle World - Master System
 Alex Kidd in Pico World by Domarius https://www.lexaloffle.com/bbs/?tid=30218
