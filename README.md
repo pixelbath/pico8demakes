@@ -247,6 +247,9 @@ Walker T. Rex by harmonydoes https://www.lexaloffle.com/bbs/?tid=35703
 ### Terraria - PC
 Terra by cubee https://www.lexaloffle.com/bbs/?tid=44606
 
+### Tetris Effect - PS4
+Tetraminis Deffect by tromagon https://www.lexaloffle.com/bbs/?pid=60520
+
 ### THEXDER - PC-88
 TEGZER by hijongpark https://www.lexaloffle.com/bbs/?tid=50918
 
